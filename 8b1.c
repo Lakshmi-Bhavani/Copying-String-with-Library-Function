@@ -1,4 +1,6 @@
-COPYING.LIB[PARENTDIR]	Parent Directory	 	-	 
+COPYING.LIB[TXT] COPYING.LIB 2011-04-13 03:31 26K
+
+Copying-StCopying-Stng-without-Library-Copying-StCopying-Stng-without-Library-ng-without-Libng-without-Library-FunctionCOPYING.LIB[PARENTDIR]	Parent Directory	 	-	 
 [TXT]	AUTHORS	2023-04-21 01:06	1.0K	 
 [TXT]	COPYING	2023-04-21 01:06	18K	 
 [TXT]	COPYING.LIB	2011-04-13 03:31	26K	 
